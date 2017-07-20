@@ -1,3 +1,4 @@
 # chao_ban
 thuc hanh GitHub
-chi chu
+GHI CHU 1
+GHI CHU 2
